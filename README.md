@@ -64,7 +64,7 @@ Nós participamos do NASA Space Apps Challenge, em 2019, na cidade de Itajubá-M
 
 <p align="center">
   <a href="https://github.com/stefanycoimbra/Bioadventuresphere-NASA_Game">
-    <img src="Images/projeto.png" alt="projeto" width="800" height="150">
+    <img src="Images/projeto.png" alt="projeto" width="600" height="450">
   </a>
 </p>
 
@@ -78,7 +78,7 @@ O jogo foi batizado de BIOADVENTURESPHERE. Pode parecer um nome meio complexo, m
 
 <p align="center">
   <a href="https://github.com/stefanycoimbra/Bioadventuresphere-NASA_Game">
-    <img src="Images/projeto.png" alt="projeto" width="800" height="150">
+    <img src="Images/projeto.png" alt="projeto" width="600" height="450">
   </a>
 </p>
 
@@ -92,7 +92,7 @@ Além disso foram utilizados o Unity2D, Photoshop, Atom, Notepad++ para as fases
 
 <p align="center">
   <a href="https://github.com/stefanycoimbra/Bioadventuresphere-NASA_Game">
-    <img src="Images/diferencial.png" alt="diferencial" width="800" height="150">
+    <img src="Images/diferencial.png" alt="diferencial" width="600" height="450">
   </a>
 </p>
 
@@ -106,7 +106,7 @@ Para montar o logo do jogo, criamos um design que mistura imagens tiradas direta
 
 <p align="center">
   <a href="https://github.com/stefanycoimbra/Bioadventuresphere-NASA_Game">
-    <img src="Images/dados.png" alt="dados" width="800" height="150">
+    <img src="Images/dados.png" alt="dados" width="600" height="450">
   </a>
 </p>
 
