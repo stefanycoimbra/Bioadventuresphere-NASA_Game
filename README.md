@@ -116,7 +116,7 @@ Quanto aos dados e embasamento teórico, pesquisamos numa biblioteca de dados da
 
 <!-- TEAM -->
 
-## Equipe
+## Time
 
 [Ariadne Pereira](https://www.linkedin.com/in/ariadne-vieira-5b0375201)
 
