@@ -1,5 +1,5 @@
 ---
-description: Um jogo de RPG que alia aventura e conhecimento!
+Description: Um jogo de RPG que alia aventura e conhecimento!
 ---
 
 # Bioadventuresphere
