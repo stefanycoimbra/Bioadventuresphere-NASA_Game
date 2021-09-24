@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://github.com/stefanycoimbra/Bioadventuresphere-NASA_Game">
-    <img src="Images/desafio.png" alt="desafio" width="200" height="150">
+    <img src="Images/desafio.png" alt="desafio" width="600" height="450">
   </a>
 </p>
 
