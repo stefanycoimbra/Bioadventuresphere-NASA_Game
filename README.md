@@ -38,10 +38,10 @@
       <a href="#ferramentas-utilizadas">Ferramentas Utilizadas</a>
     </li>
     <li>
-      <a href="#trajetoria-do-time">Trajetória do Time</a>
+      <a href="#trajetória-do-time">Trajetória do Time</a>
     </li>
     <li>
-      <a href="#dados-e-embasamento-teorico">Dados e Embasamento Teórico</a>
+      <a href="#dados-e-embasamento-teórico">Dados e Embasamento Teórico</a>
     </li>
     <li><a href="#time">Time</a>
     </li>
@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://github.com/stefanycoimbra/Bioadventuresphere-NASA_Game">
-    <img src="src/Images/desafio.png" alt="desafio" width="800" height="150">
+    <img src="Images/desafio.png" alt="desafio" width="800" height="150">
   </a>
 </p>
 
@@ -64,7 +64,7 @@ Nós participamos do NASA Space Apps Challenge, em 2019, na cidade de Itajubá-M
 
 <p align="center">
   <a href="https://github.com/stefanycoimbra/Bioadventuresphere-NASA_Game">
-    <img src="src/Images/projeto.png" alt="projeto" width="800" height="150">
+    <img src="Images/projeto.png" alt="projeto" width="800" height="150">
   </a>
 </p>
 
@@ -78,7 +78,7 @@ O jogo foi batizado de BIOADVENTURESPHERE. Pode parecer um nome meio complexo, m
 
 <p align="center">
   <a href="https://github.com/stefanycoimbra/Bioadventuresphere-NASA_Game">
-    <img src="src/Images/projeto.png" alt="projeto" width="800" height="150">
+    <img src="Images/projeto.png" alt="projeto" width="800" height="150">
   </a>
 </p>
 
@@ -92,7 +92,7 @@ Além disso foram utilizados o Unity2D, Photoshop, Atom, Notepad++ para as fases
 
 <p align="center">
   <a href="https://github.com/stefanycoimbra/Bioadventuresphere-NASA_Game">
-    <img src="src/Images/diferencial.png" alt="diferencial" width="800" height="150">
+    <img src="Images/diferencial.png" alt="diferencial" width="800" height="150">
   </a>
 </p>
 
@@ -106,7 +106,7 @@ Para montar o logo do jogo, criamos um design que mistura imagens tiradas direta
 
 <p align="center">
   <a href="https://github.com/stefanycoimbra/Bioadventuresphere-NASA_Game">
-    <img src="src/Images/dados.png" alt="dados" width="800" height="150">
+    <img src="Images/dados.png" alt="dados" width="800" height="150">
   </a>
 </p>
 
